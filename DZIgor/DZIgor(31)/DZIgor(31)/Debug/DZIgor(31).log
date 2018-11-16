@@ -1,0 +1,43 @@
+﻿Построение начато 14.10.2018 11:22:09.
+     1>Проект "C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\DZIgor(31)\DZIgor(31).vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\DZIgor(31).unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "DZIgor(31).cpp"
+         DZIgor(31).cpp
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(109): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(31)\dzigor(31)\dzigor(31).cpp(157): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\Debug\DZIgor(31).exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DZIgor(31).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\Debug\DZIgor(31).pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\Debug\DZIgor(31).lib" /MACHINE:X86 "Debug\DZIgor(31).obj"
+         LINK : не найден или не выполнена сборка C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\Debug\DZIgor(31).exe при последней инкрементной компоновке; выполняется полная компоновка
+         DZIgor(31).vcxproj -> C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\Debug\DZIgor(31).exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\Debug\DZIgor(31).exe;#1" /manifest "Debug\DZIgor(31).exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\DZIgor(31).unsuccessfulbuild" удаляется.
+         Обращение к "Debug\DZIgor(31).lastbuildstate".
+     1>Построение проекта "C:\Documents and Settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(31)\DZIgor(31)\DZIgor(31).vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04

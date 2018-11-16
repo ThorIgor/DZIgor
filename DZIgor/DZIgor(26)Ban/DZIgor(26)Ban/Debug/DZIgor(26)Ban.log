@@ -1,0 +1,22 @@
+﻿Построение начато 24.09.2018 18:00:05.
+     1>Проект "C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\DZIgor(26)Ban\DZIgor(26)Ban.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\DZIgor(26)Ban.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "DZIgor(26)Ban.cpp"
+         DZIgor(26)Ban.cpp
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(26)ban\dzigor(26)ban\dzigor(26)ban.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\Debug\DZIgor(26)Ban.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DZIgor(26)Ban.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\Debug\DZIgor(26)Ban.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\Debug\DZIgor(26)Ban.lib" /MACHINE:X86 "Debug\DZIgor(26)Ban.obj"
+         LINK : не найден или не выполнена сборка C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\Debug\DZIgor(26)Ban.exe при последней инкрементной компоновке; выполняется полная компоновка
+         DZIgor(26)Ban.vcxproj -> C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\Debug\DZIgor(26)Ban.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\Debug\DZIgor(26)Ban.exe;#1" /manifest "Debug\DZIgor(26)Ban.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\DZIgor(26)Ban.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\DZIgor(26)Ban.lastbuildstate".
+     1>Построение проекта "C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(26)Ban\DZIgor(26)Ban\DZIgor(26)Ban.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.93

@@ -1,0 +1,21 @@
+﻿Построение начато 22.08.2018 9:05:42.
+     1>Проект "c:\documents and settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(21)\DZIgor(21)\DZIgor(21).vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\DZIgor(21).unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "DZIgor(21).cpp"
+         DZIgor(21).cpp
+     1>c:\documents and settings\sergg\мои документы\visual studio 2010\projects\dzigor(21)\dzigor(21)\dzigor(21).cpp(38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\documents and settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(21)\Debug\DZIgor(21).exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DZIgor(21).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\documents and settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(21)\Debug\DZIgor(21).pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\documents and settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(21)\Debug\DZIgor(21).lib" /MACHINE:X86 "Debug\DZIgor(21).obj"
+         DZIgor(21).vcxproj -> c:\documents and settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(21)\Debug\DZIgor(21).exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\documents and settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(21)\Debug\DZIgor(21).exe;#1" /manifest "Debug\DZIgor(21).exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\DZIgor(21).unsuccessfulbuild" удаляется.
+         Обращение к "Debug\DZIgor(21).lastbuildstate".
+     1>Построение проекта "c:\documents and settings\sergg\мои документы\visual studio 2010\Projects\DZIgor(21)\DZIgor(21)\DZIgor(21).vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.45

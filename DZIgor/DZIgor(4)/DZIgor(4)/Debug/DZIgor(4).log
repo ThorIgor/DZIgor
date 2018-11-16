@@ -1,0 +1,21 @@
+﻿Построение начато 02.06.2018 19:28:23.
+     1>Проект "C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\DZIgor(4)\DZIgor(4).vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\DZIgor(4).unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "DZIgor(4).cpp"
+         DZIgor(4).cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\Debug\DZIgor(4).exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DZIgor(4).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\Debug\DZIgor(4).pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\Debug\DZIgor(4).lib" /MACHINE:X86 "Debug\DZIgor(4).obj"
+         LINK : не найден или не выполнена сборка C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\Debug\DZIgor(4).exe при последней инкрементной компоновке; выполняется полная компоновка
+         DZIgor(4).vcxproj -> C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\Debug\DZIgor(4).exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\Debug\DZIgor(4).exe;#1" /manifest "Debug\DZIgor(4).exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\DZIgor(4).unsuccessfulbuild" удаляется.
+         Обращение к "Debug\DZIgor(4).lastbuildstate".
+     1>Построение проекта "C:\Documents and Settings\sergg\Мои документы\Visual Studio 2010\Projects\DZIgor(4)\DZIgor(4)\DZIgor(4).vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.93

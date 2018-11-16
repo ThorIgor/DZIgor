@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZIgor(12)", "DZIgor(12)\DZIgor(12).vcxproj", "{5739249C-B73F-4C53-A5F1-66E191F8C318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5739249C-B73F-4C53-A5F1-66E191F8C318}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5739249C-B73F-4C53-A5F1-66E191F8C318}.Debug|Win32.Build.0 = Debug|Win32
+		{5739249C-B73F-4C53-A5F1-66E191F8C318}.Release|Win32.ActiveCfg = Release|Win32
+		{5739249C-B73F-4C53-A5F1-66E191F8C318}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
