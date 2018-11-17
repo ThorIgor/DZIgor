@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\dzigor(33)\dzigor(33)\main.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\sergik\source\repos\dzigor(33)\dzigor(33)\main.cpp(32): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\sergik\source\repos\dzigor(33)\dzigor(33)\main.cpp(33): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\sergik\source\repos\dzigor(33)\dzigor(33)\main.cpp(34): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  DZIgor(33).vcxproj -> c:\users\sergik\source\repos\DZIgor(33)\Debug\DZIgor(33).exe
