@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\dzigoroop(3)\dzigoroop(3)\main.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\sergik\source\repos\dzigoroop(3)\dzigoroop(3)\main.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZIgorOOP(3).vcxproj -> C:\Users\sergik\source\repos\DZIgorOOP(3)\Debug\DZIgorOOP(3).exe

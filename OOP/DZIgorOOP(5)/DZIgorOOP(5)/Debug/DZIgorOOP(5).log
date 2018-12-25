@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\dzigoroop(5)\dzigoroop(5)\main.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  DZIgorOOP(5).vcxproj -> C:\Users\sergik\source\repos\DZIgorOOP(5)\Debug\DZIgorOOP(5).exe

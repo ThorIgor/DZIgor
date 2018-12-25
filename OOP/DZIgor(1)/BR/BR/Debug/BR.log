@@ -1,0 +1,6 @@
+﻿  DopFunc.cpp
+  Main.cpp
+c:\users\thor_i\source\repos\br\br\main.cpp(22): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\thor_i\source\repos\br\br\main.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  BR.vcxproj -> c:\Users\thor_i\source\repos\BR\Debug\BR.exe
