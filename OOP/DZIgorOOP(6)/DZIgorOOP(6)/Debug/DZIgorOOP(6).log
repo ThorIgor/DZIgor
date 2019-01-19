@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\dzigoroop(6)\dzigoroop(6)\unit.h(66): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergik\source\repos\dzigoroop(6)\dzigoroop(6)\unit.h(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergik\source\repos\dzigoroop(6)\dzigoroop(6)\unit.h(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergik\source\repos\dzigoroop(6)\dzigoroop(6)\main.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\sergik\source\repos\dzigoroop(6)\dzigoroop(6)\main.cpp(7): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\sergik\source\repos\dzigoroop(6)\dzigoroop(6)\unit.h(117): warning C4715: Team::operator[]: значение возвращается не при всех путях выполнения
+  DZIgorOOP(6).vcxproj -> C:\Users\sergik\source\repos\DZIgorOOP(6)\Debug\DZIgorOOP(6).exe
