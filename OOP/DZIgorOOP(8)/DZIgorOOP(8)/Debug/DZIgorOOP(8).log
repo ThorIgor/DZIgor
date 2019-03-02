@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\dzigoroop(8)\dzigoroop(8)\main.cpp(41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZIgorOOP(8).vcxproj -> C:\Users\sergik\source\repos\DZIgorOOP(8)\Debug\DZIgorOOP(8).exe

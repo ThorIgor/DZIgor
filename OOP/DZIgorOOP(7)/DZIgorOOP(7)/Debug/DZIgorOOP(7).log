@@ -1,0 +1,33 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(52): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(48): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(63): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::reserve(const size_t &)"
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(55): note: выполняется компиляция ссылки на экземпляр шаблон класс "Vector<int>"
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(72): warning C4244: аргумент: преобразование "double" в "const size_t", возможна потеря данных
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(70): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(64): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::resize(const size_t &,const T &)"
+          with
+          [
+              T=int
+          ]
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(73): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(90): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(87): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(56): note: выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int>::Vector(const Vector<int> &)"
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(117): warning C4018: >: несоответствие типов со знаком и без знака
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(113): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(57): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::add(const size_t &,const T &)"
+          with
+          [
+              T=int
+          ]
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(127): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(124): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(66): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::remove(const size_t &)"
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(151): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(146): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(58): note: выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int> Vector<int>::operator =(Vector<int>)"
+c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(209): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\vector.h(208): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\sergik\source\repos\dzigoroop(7)\dzigoroop(7)\main.cpp(59): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::print(void) const"
+  DZIgorOOP(7).vcxproj -> C:\Users\sergik\source\repos\DZIgorOOP(7)\Debug\DZIgorOOP(7).exe
