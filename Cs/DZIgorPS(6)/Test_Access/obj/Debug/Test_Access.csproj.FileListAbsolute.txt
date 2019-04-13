@@ -1,0 +1,11 @@
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\bin\Debug\Test_Access.exe.config
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\bin\Debug\Test_Access.exe
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\bin\Debug\Test_Access.pdb
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\bin\Debug\DZIgorPS(6).exe
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\bin\Debug\DZIgorPS(6).pdb
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\bin\Debug\DZIgorPS(6).exe.config
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\obj\Debug\Test_Access.csprojAssemblyReference.cache
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\obj\Debug\Test_Access.csproj.CoreCompileInputs.cache
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\obj\Debug\Test_Access.csproj.CopyComplete
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\obj\Debug\Test_Access.exe
+C:\Users\sergik\source\repos\DZIgorPS(6)\Test_Access\obj\Debug\Test_Access.pdb

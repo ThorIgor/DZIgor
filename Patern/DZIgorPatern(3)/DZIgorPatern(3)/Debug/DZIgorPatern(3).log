@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\dzigorpatern(3)\dzigorpatern(3)\main.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\sergik\source\repos\dzigorpatern(3)\dzigorpatern(3)\main.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZIgorPatern(3).vcxproj -> C:\Users\sergik\source\repos\DZIgorPatern(3)\Debug\DZIgorPatern(3).exe

@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\sergik\source\repos\control_task_patern\control_task_patern\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Control_Task_Patern.vcxproj -> C:\Users\sergik\source\repos\Control_Task_Patern\Debug\Control_Task_Patern.exe

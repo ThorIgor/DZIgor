@@ -1,0 +1,7 @@
+C:\Users\sergik\source\repos\DZIgorPS(7)\DZIgorPS(7)\bin\Debug\DZIgorPS(7).exe.config
+C:\Users\sergik\source\repos\DZIgorPS(7)\DZIgorPS(7)\bin\Debug\DZIgorPS(7).exe
+C:\Users\sergik\source\repos\DZIgorPS(7)\DZIgorPS(7)\bin\Debug\DZIgorPS(7).pdb
+C:\Users\sergik\source\repos\DZIgorPS(7)\DZIgorPS(7)\obj\Debug\DZIgorPS(7).csprojAssemblyReference.cache
+C:\Users\sergik\source\repos\DZIgorPS(7)\DZIgorPS(7)\obj\Debug\DZIgorPS(7).csproj.CoreCompileInputs.cache
+C:\Users\sergik\source\repos\DZIgorPS(7)\DZIgorPS(7)\obj\Debug\DZIgorPS(7).exe
+C:\Users\sergik\source\repos\DZIgorPS(7)\DZIgorPS(7)\obj\Debug\DZIgorPS(7).pdb
