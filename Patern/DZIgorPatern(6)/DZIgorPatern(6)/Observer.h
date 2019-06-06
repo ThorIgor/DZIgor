@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Subscriber
+class Subscriber abstract
 {
 public:
 	virtual void Update(const double &rate) = 0;
@@ -11,7 +11,10 @@ public:
 
 class Bank : public Subscriber
 {
+	double changeRate;
 public:
+	Bank(const double &cr = 25) : changeRate(cr)
+	{}
 	void Update(const double &rate) override
 	{
 		if (rate < 25)
@@ -23,19 +26,17 @@ public:
 
 class Broker : public Subscriber
 {
-	double lastRate;
+	double changeRate;
 public:
-	Broker()
-	{
-		lastRate = 27.4;
-	}
+	Broker(const double &cr = 25) : changeRate(cr)
+	{}
 	void Update(const double &rate) override
 	{
-		if (rate < lastRate)
+		if (rate < changeRate)
 			cout << "Broker buy USD" << endl;
 		else
 			cout << "Broker sell USD" << endl;
-		lastRate = rate;
+		changeRate = rate;
 	}
 };
 

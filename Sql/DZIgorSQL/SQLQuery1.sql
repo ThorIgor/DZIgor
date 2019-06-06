@@ -1,0 +1,15 @@
+select * from Tours;
+select * from Tours where [Days] between 5 and 7;
+select * from Tours where Country = 'USA';
+select * from Tours where Food = 1 and Country = 'USA';
+select * from Tours where (Price between 10000 and 15000) and Country = 'Norway' and day([Date]) >= 12 and month([Date]) >= 5 and year([Date]) >= 2019;
+select * from Tours where month([Date]) between 6 and 8;
+select max(Price) as 'Max' from Tours;
+select min(Price) as 'Min' from Tours;
+select avg(Price) as 'Avg' from Tours;
+select avg(Price) as 'Avg in USA' from Tours where Country = 'USA';
+select count(Price) as 'Count < 15000' from Tours where Price < 15000;
+select * from Tours where Country = 'France';
+select Price as 'Price in grn', Price/28 as 'Price in $', Price/32 as 'Price in ª' from Tours where Country = 'Norway' or Country = 'France';
+select * from Tours where Details is not null;
+select distinct Country from Tours;
