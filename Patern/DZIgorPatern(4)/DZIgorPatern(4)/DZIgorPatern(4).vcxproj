@@ -118,6 +118,8 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Composite.h" />
+    <ClInclude Include="Facade.h" />
     <ClInclude Include="Proxy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
