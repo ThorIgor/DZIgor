@@ -398,8 +398,8 @@ void InPut()
 	//Calculator
 	double dop = 1;
 	
-	if(_kbhit())
-	{
+	while (_kbhit())
+	{}
 		button = _getch();
 		if(menu == 1)
 		{
@@ -633,7 +633,6 @@ void InPut()
 				}
 			}
 		}
-	}
 };
 
 void Logic()
